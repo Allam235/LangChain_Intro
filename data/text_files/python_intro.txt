@@ -1,0 +1,12 @@
+Python is a popular, high-level computer programming language. It is free, open-source, and known for clean, easy-to-read code that looks like regular English. Created by Guido van Rossum and released in 1991, its name honors the British comedy group Monty Python.
+
+Key Features
+Simple: Uses clear words and spaces so it is easy to learn.
+Versatile: Works for small scripts or huge software projects.
+Interpreted: Runs code line-by-line without a heavy setup step.
+Cross-Platform: Works on Windows, Mac, and Linux.
+
+Common Uses
+Artificial Intelligence: Powers machine learning, data science, and smart AI tools.
+Web Development: Builds the back end of websites and apps.
+Automation: Handles boring, repetitive computer tasks automatically.

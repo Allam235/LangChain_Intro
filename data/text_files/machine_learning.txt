@@ -1,0 +1,9 @@
+Machine Learning Basics
+
+Machine learning is a subset of artificial intelligence that lets computers learn from data and improve tasks over time without being explicitly programmed. Instead of hard-coded rules, models find patterns to make predictions
+
+Main Types of Machine Learning
+Supervised Learning: Uses labeled data and known answers to train models. Examples include regression (predicting numbers) and classification (sorting items).
+Unsupervised Learning: Finds hidden structures or groups in unlabeled data. Examples include customer segmentation and clustering.
+Reinforcement Learning: Trains agents through trial, error, rewards, and penalties.
+Deep Learning: Uses multi-layer neural networks for complex tasks like image and speech recognition.
